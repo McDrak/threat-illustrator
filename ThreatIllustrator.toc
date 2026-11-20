@@ -1,0 +1,8 @@
+## Interface: 16001, 11509
+## Title: Threat Illustrator
+## Notes: Testing FFXIV-like threat Illustrator
+## Version: 0.1
+## SavedVariables: ThreatIllustratorDB
+
+ThreatBackend.lua
+ThreatFrontend.lua
